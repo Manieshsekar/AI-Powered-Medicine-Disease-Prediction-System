@@ -12,7 +12,8 @@ A modern, machine learning–powered healthcare assistant for smart disease pred
 ## 🦾 Technologies
 - Python, Streamlit, scikit-learn, matplotlib, pandas, fpdf
 
-💻 Run Locally
+##💻 Run Locally
+https://ai-powered-medicine-disease-prediction-system-9grekukafckbgfbf.streamlit.app/
 
 ## 📸 Screenshots
 ![AI-Powered Medicine & Disease Prediction System]
